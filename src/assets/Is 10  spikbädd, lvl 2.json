@@ -1,0 +1,28 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"Is 10 + Spikbädd (261 x 173)": {
+		"type": "fromPhysicsEditor",
+		"label": "Is 10 + Spikbädd (261 x 173)",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":96, "y":0 }, { "x":2, "y":0 }, { "x":0, "y":2 }, { "x":1, "y":173 }, { "x":96, "y":92 } ],
+					[ { "x":261, "y":92 }, { "x":96, "y":92 }, { "x":1, "y":173 }, { "x":260, "y":173 } ]
+				]
+			}
+		]
+	}
+}
